@@ -1,0 +1,3 @@
+[22-Dec-2015 11:51:55 Asia/Calcutta] PHP Fatal error:  Call to a member function getNOKUrl() on a non-object in D:\xampp\htdocs\Store\direct2CG.php on line 27
+[22-Dec-2015 11:51:55 Asia/Calcutta] PHP Stack trace:
+[22-Dec-2015 11:51:55 Asia/Calcutta] PHP   1. {main}() D:\xampp\htdocs\Store\direct2CG.php:0
